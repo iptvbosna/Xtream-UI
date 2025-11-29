@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://www.paypal.com/paypalme/webplatforma">
+ <img  alt="Donate with PayPal button" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+</a>
+</p>
+
 # Install Xtream-UI R24 on Ubuntu 18.04 Server
 Here you can read how to instal XtreamUI R24 on a Ubuntu 18.04 Server
 
